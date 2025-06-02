@@ -38,8 +38,4 @@ Temporary Items
 .apdisk
 
 # Ignore contents of the etc/ignore folder
-SpringBoot/src/main/resources/application.yml
-SpringBoot/src/main/resources/application-local.yml
-SpringBoot/src/main/resources/application-prod.yml
-SpringBoot/src/main/resources/application-local.yml
-SpringBoot/src/main/resources/application-prod.yml
+src/main/resources/application.yml
